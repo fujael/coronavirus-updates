@@ -1,0 +1,2 @@
+<?PHP
+//silence is good
